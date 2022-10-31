@@ -16,7 +16,6 @@ body {
   background-color: var(--bgColor);
   margin: 1.5rem auto;
   width: 100%;
-  min-height: 100vh;
   position: relative;
 }
 
